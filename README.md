@@ -1,5 +1,8 @@
 # Restaurante API
 
+Nome: Kaio Vinicius Corredor da Silva
+Vídeo no youtube: https://youtu.be/jR0y4JU0fU0
+
 API REST de pedidos de restaurante feita em **Kotlin + Spring Boot 4 + JPA + JWT**.
 Trabalho da disciplina (Opção 1 — estendendo os serviços vistos em aula).
 
