@@ -1,6 +1,6 @@
 # Restaurante API
 
-Nome: Kaio Vinicius Corredor da Silva
+Nome: Kaio Vinicius Corredor da Silva.
 
 Vídeo no youtube: https://youtu.be/jR0y4JU0fU0
 
